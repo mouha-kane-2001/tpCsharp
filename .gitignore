@@ -1,0 +1,15 @@
+# Ignorer les fichiers Visual Studio
+.vs/
+*.vsix
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignorer les dossiers de build
+bin/
+obj/
+
+# Ignorer les fichiers de configuration utilisateur
+*.config
+*.log
